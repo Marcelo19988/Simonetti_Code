@@ -1,7 +1,7 @@
 # Simonetti_Code
 💻 teste de inscrição MS-CODE Para envio.
 
-Por: Maecelo Augusto Lucas Prado 👨
+Por: Marcelo Augusto Lucas Prado 👨
 
 atualmente iniciando estudando e aprendendo a programação 📘💻
 
