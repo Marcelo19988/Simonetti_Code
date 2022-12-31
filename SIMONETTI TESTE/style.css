@@ -1,0 +1,18 @@
+#body{
+	background-color: rgb(255, 215, 0);
+}
+
+button{
+	width: 100px;
+	background-color: rgb(134, 255, 104);
+	padding: 13px;
+	width: 200px;
+	top: 200px;
+	float: inline-end;
+}
+
+.tv2{
+	width: 40%;
+	right: 200px;
+	top: 200px;
+}
