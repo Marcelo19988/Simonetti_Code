@@ -1,4 +1,4 @@
-💻 teste de inscrição MS-CODE Para envio.
+💻 Teste MS-CODE Para envio.
 
 - 👨 Olá eu sou marcelo augusto lucas prado .
 - 📘 Atualmente estou iniciando estudando e aprendendo criando projetos sobre html e css.
