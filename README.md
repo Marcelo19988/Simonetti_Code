@@ -1,9 +1,9 @@
 💻 teste de inscrição MS-CODE Para envio.
 
-- 👨 olá eu sou marcelo augusto lucas prado .
-- 📘 atualmente estou iniciando estudando e aprendendo html e css.
-- 📃 formação Informática,Excel,PowerPoint,Word,internet,Corel Draw, e Photoshop.
-- 😀 pronomes ele/dele.
+- 👨 Olá eu sou marcelo augusto lucas prado .
+- 📘 Atualmente estou iniciando estudando e aprendendo criando projetos sobre html e css.
+- 📃 Formado em: Informática,Excel,PowerPoint,Word,Internet,Corel Draw, e Photoshop.
+- 😀 Pronomes: ele/dele.
 
 <div align="center">
   <a href="https://github.com/Marcelo19988">
